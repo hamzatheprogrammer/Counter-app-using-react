@@ -1,0 +1,17 @@
+div{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-content: center;
+  flex-wrap: wrap;
+  margin-top: 5px;
+}
+button{
+  margin: 5px;
+}
+p{
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: sans-serif;
+  margin: 10px auto;
+}
